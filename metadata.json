@@ -1,0 +1,6 @@
+{
+  "name": "Bedroom SelfieCraft - Smartphone Bedroom Selfie Prompt Engine",
+  "description": "A hyper-focused, physically grounded smartphone selfie prompt engine strictly calibrated for realistic bedroom environments, authentic arm biomechanics, mirror reflections, and indoor lighting for ChatGPT Images & Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
